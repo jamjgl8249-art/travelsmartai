@@ -25,7 +25,7 @@ jobs:
         run: flutter build apk --release
 
       - name: Upload APK to GitHub
-        uses: - uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4
         
         with:
           name: TravelSmartAI-APK
