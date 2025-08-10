@@ -1,4 +1,3 @@
-- run: cd TravelSmartAI_MVP
 name: Flutter Android Build
 
 on:
